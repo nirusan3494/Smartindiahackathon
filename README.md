@@ -131,7 +131,13 @@ Vision X Telemedicine provides a scalable, multi-language telemedicine platform 
 
 🔗 **Live Demo**: [https://nirusan3494.github.io/Smartindiahackathon/](https://nirusan3494.github.io/Smartindiahackathon/)
 
-
+> ⚡ **Quick Setup**: To enable the live demo:
+> 1. Go to [GitHub Repository Settings](https://github.com/nirusan3494/Smartindiahackathon/settings/pages)
+> 2. Under "Source", select **"Deploy from a branch"**
+> 3. Choose **"main"** branch and **"/ (root)"** folder
+> 4. Click **Save** - Your demo will be live in 2-3 minutes!
+> 
+> 📱 **Interactive Features**: Multi-language switching, feature cards, hover effects, and mobile-responsive design
 
 ### 🛣️ Demo Features
 
