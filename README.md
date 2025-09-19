@@ -129,7 +129,9 @@ Vision X Telemedicine provides a scalable, multi-language telemedicine platform 
 
 ### 🌐 Try the Application
 
-🔗 **Live Demo**: [https://nirusan3494.github.io/Smartindiahackathon](https://nirusan3494.github.io/Smartindiahackathon)
+🔗 **Live Demo**: [https://nirusan3494.github.io/Smartindiahackathon/](https://nirusan3494.github.io/Smartindiahackathon/)
+
+> ⚠️ **Note**: The live demo will be available once GitHub Actions completes the deployment (usually 2-3 minutes after pushing changes).
 
 ### 🛣️ Demo Features
 
@@ -504,7 +506,7 @@ cd Smartindiahackathon && npm install
 npm run dev
 ```
 
-**🌍 Live Demo**: [https://nirusan3494.github.io/Smartindiahackathon](https://nirusan3494.github.io/Smartindiahackathon)
+**🌍 Live Demo**: [https://nirusan3494.github.io/Smartindiahackathon/](https://nirusan3494.github.io/Smartindiahackathon/)
 
 ### 📚 Additional Resources
 - [🛠️ **Complete Installation Guide**](./docs/INSTALLATION.md)
@@ -577,6 +579,6 @@ This project is developed as part of the Smart India Hackathon 2024 initiative. 
 *© 2024 Vision X Telemedicine. Developed for Smart India Hackathon 2024.*  
 *Proudly serving Nabha Civil Hospital & Rural Communities of Punjab.*
 
-**[🚀 Try Live Demo](https://nirusan3494.github.io/Smartindiahackathon)** | **[📚 Documentation](./docs/)** | **[🎆 Presentation](./presentation/)**
+**[🚀 Try Live Demo](https://nirusan3494.github.io/Smartindiahackathon/)** | **[📚 Documentation](./docs/)** | **[🎆 Presentation](./presentation/)**
 
 </div>
