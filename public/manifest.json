@@ -1,0 +1,55 @@
+{
+  "name": "Vision X Telemedicine",
+  "short_name": "Vision X",
+  "description": "Rural healthcare access through telemedicine for Nabha and surrounding villages",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["health", "medical", "telemedicine"],
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Emergency Consultation",
+      "short_name": "Emergency",
+      "description": "Quick access to emergency medical consultation",
+      "url": "/emergency",
+      "icons": [
+        {
+          "src": "/emergency-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Book Consultation",
+      "short_name": "Book",
+      "description": "Schedule a consultation with a doctor",
+      "url": "/book-consultation",
+      "icons": [
+        {
+          "src": "/consultation-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
