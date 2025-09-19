@@ -90,7 +90,7 @@ Vision X Telemedicine provides a scalable, multi-language telemedicine platform 
 - 💾 **Offline health records** access and emergency information
 - 🔄 **Smart sync** when connectivity returns
 
-[📱 **Try Live Demo**](#-live-demo) | [📚 **View Documentation**](./docs/) | [🖼️ **See Screenshots**](./screenshots/)
+[📱 **Try Live Demo**](#-live-demo) |
 
 ---
 
@@ -131,7 +131,7 @@ Vision X Telemedicine provides a scalable, multi-language telemedicine platform 
 
 🔗 **Live Demo**: [https://nirusan3494.github.io/Smartindiahackathon/](https://nirusan3494.github.io/Smartindiahackathon/)
 
-> ⚠️ **Note**: The live demo will be available once GitHub Actions completes the deployment (usually 2-3 minutes after pushing changes).
+
 
 ### 🛣️ Demo Features
 
