@@ -1,0 +1,28 @@
+title: Vision X Telemedicine
+description: Smart India Hackathon 2024 - Rural Healthcare Access Solution
+author: Vision X Telemedicine Team
+baseurl: "/Smartindiahackathon"
+url: "https://nirusan3494.github.io"
+
+# Disable Jekyll processing for GitHub Pages
+plugins: []
+theme: null
+markdown: kramdown
+
+# Include all files
+include:
+  - .nojekyll
+  - index.html
+  - demo.html
+  - README.md
+
+# Exclude build files
+exclude:
+  - node_modules/
+  - src/
+  - .github/
+  - package.json
+  - tsconfig.json
+  - next.config.js
+  - tailwind.config.ts
+  - postcss.config.js
